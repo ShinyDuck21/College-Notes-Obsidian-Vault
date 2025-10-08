@@ -1,0 +1,24 @@
+## Amending the Constitution
+ - Amendments = Changes to Constitution
+ - Requirements to modify the constitution
+	 - 2/3 of both House and Senate can propose amendments
+		 - OR
+	- 2/3 of state legislatures can call for a convention to propose amendments - proposing national convention
+		- AND
+	- 3/4 of state legislatures ratify
+		- OR
+	- 3/4 of state conventions ratify - ratifying convention, within each state
+- WHy 2 different ways to propose
+	- One through federal government
+		- Federal Government could be in a good spot to amend the constitution
+	- One Through State Governments
+		- State Governments can make congress call for a amendment to the constitution through the National Convention
+		- No option for the federal government
+			- Federal government has no say in the amendment
+		- States can amend the constitution despite what the federal Government wants
+			- If Federal Government is infringing on natural rights then states can constrict      ([[Development of the Constitution#Sepration of Powers and Checks and Balances|Checks and Balances]]) the federal government
+	- People of States ultimately ones ratifying amendments
+- Difficult To amend the constitution
+	- Enough Wide spread agreement for things we need to do
+- Point of Amendments?
+	- To more secure your natural rights
