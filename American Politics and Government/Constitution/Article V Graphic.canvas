@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"c39ac859c384203b","x":460,"y":-50,"width":250,"height":60,"type":"text","text":"1. Proposal Process"},
+		{"id":"225a96a0af23b7f5","x":255,"y":133,"width":250,"height":60,"type":"text","text":"2/3 of both house and senate propose"},
+		{"id":"a6dce914237e8c67","x":710,"y":133,"width":250,"height":60,"type":"text","text":"2/3 of state legislatures call national convention"},
+		{"id":"660a4f1edd6e7349","x":460,"y":320,"width":250,"height":60,"type":"text","text":"2. Ratification Process"},
+		{"id":"c62aee2f8bc697a5","x":255,"y":520,"width":250,"height":60,"type":"text","text":"3/4 of state legislatures ratify"},
+		{"id":"9255b628e9a54066","x":710,"y":520,"width":250,"height":60,"type":"text","text":"3/4 of state conventions ratify"},
+		{"id":"73f7e2cfb0b8ff89","x":-300,"y":120,"width":400,"height":400,"type":"file","file":"American Politics and Government/Constitution/Article V.md"}
+	],
+	"edges":[
+		{"id":"f728a320a2d899b0","fromNode":"c39ac859c384203b","fromSide":"bottom","toNode":"225a96a0af23b7f5","toSide":"top"},
+		{"id":"ccd37da4df703842","fromNode":"c39ac859c384203b","fromSide":"bottom","toNode":"a6dce914237e8c67","toSide":"top"},
+		{"id":"fe0c64c1275e95f8","fromNode":"225a96a0af23b7f5","fromSide":"bottom","toNode":"660a4f1edd6e7349","toSide":"top"},
+		{"id":"83f5f400c489644e","fromNode":"a6dce914237e8c67","fromSide":"bottom","toNode":"660a4f1edd6e7349","toSide":"top"},
+		{"id":"10574ccbe704ed38","fromNode":"660a4f1edd6e7349","fromSide":"bottom","toNode":"c62aee2f8bc697a5","toSide":"top"},
+		{"id":"39558474a9467f4e","fromNode":"660a4f1edd6e7349","fromSide":"bottom","toNode":"9255b628e9a54066","toSide":"top"},
+		{"id":"42aa3c3a736a6510","fromNode":"73f7e2cfb0b8ff89","fromSide":"top","toNode":"c39ac859c384203b","toSide":"top"},
+		{"id":"ac6c1f74eec0aa31","fromNode":"9255b628e9a54066","fromSide":"bottom","toNode":"73f7e2cfb0b8ff89","toSide":"bottom"},
+		{"id":"7feba37abbc46257","fromNode":"c62aee2f8bc697a5","fromSide":"bottom","toNode":"73f7e2cfb0b8ff89","toSide":"bottom"}
+	]
+}
