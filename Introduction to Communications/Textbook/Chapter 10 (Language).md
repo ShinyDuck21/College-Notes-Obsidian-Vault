@@ -41,3 +41,41 @@ Modern Slang and Acronyms
 Language Limitations
  - Some concepts lack English names, reveal Cultural influence and limitations in language adoption
 
+## Words as Weapons
+---
+Historical Language Exclusion
+ - The Biblical "Shibboleth" example shows how language pronunciation was used to exclude and identify outsiders
+
+Dialect Discrimination
+ - AAVE (African American Vernacular English) speakers face unfair judgement despite the dialects valid grammatical structure highlighted by linguists
+
+Gendered Language Bias
+ - Terms like "waitress" and "actress" imply lesser status reflecting bias embedded in gendered language
+
+Jargon and Social Barriers
+ - Professional Jargon and Acronyms Create barriers, alienating newcomers and the public from understanding
+
+# Levels of Meaning
+---
+Denotative Meaning
+ - The denotative level represents the literal, dictionary meaning of words without emotion of context
+
+Connotative Meaning
+ - Connotative meaning involves implied ideas shaped by context, tone, and social purpose beyond literal words
+
+Relational Meaning
+ - Relational Meaning reflects the interpersonal dynamics and emotions influencing communication between speakers
+
+## Adapting to your Audience
+---
+Role of Code-Switching
+ - Code-switching helps individuals adapt language styles to fit diverse social and professional settings effectively
+
+Vividness and Euphemisms
+ - Vivid language intensifies communication, while euphemisms soften emotional impact to maintain politeness and sensitivity
+
+Challenges with Idioms
+ - Idioms require cultural understanding as their meanings cannot be inferred literally, complicating communication for non-native speakers
+
+Balancing Language Adaptation
+ - Effective communication balances vividness, clarity, and sensitivity to societal norms and audience expectations

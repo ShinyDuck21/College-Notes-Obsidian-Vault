@@ -15,7 +15,11 @@ Ethics can be defined by
 1. Means
 2. Ends
 
-The TARES test includes
- - Truthfulness
+
 
 Responsibility to be skeptical
+
+## TARES Test
+---
+The TARES test includes
+ - T
