@@ -1,11 +1,3 @@
-```markmap
-
-
-
-
-
-```
-
 ## Articles of Confederation
 ---
 What were they?

@@ -1,3 +1,98 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1760996426182,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1760999101810,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1760999101810,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1760999101810,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1760999101810,
+                      "path": "American Politics and Government/Constitution/Bill of rights/Amendment I.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1760999101810,
+                      "path": "American Politics and Government/Constitution/Bill of rights/Amendment II.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1760999101810,
+                      "path": "American Politics and Government/Constitution/Bill of rights/Amendment III.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1760999101810,
+                      "path": "American Politics and Government/Constitution/Bill of rights/Amendment IV.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1760999101810,
+                      "path": "American Politics and Government/Constitution/Bill of rights/Amendment IX.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1760999101810,
+                      "path": "American Politics and Government/Constitution/Bill of rights/Amendment V.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1760999101810,
+                      "path": "American Politics and Government/Constitution/Bill of rights/Amendment VI.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1760999101810,
+                      "path": "American Politics and Government/Constitution/Bill of rights/Amendment VII.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1760999101810,
+                      "path": "American Politics and Government/Constitution/Bill of rights/Amendment VIII.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1760999101810,
+                      "path": "American Politics and Government/Constitution/Bill of rights/Amendment IX.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1760999101810,
+                      "path": "American Politics and Government/Constitution/Bill of rights/Overview.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "\\\\Bill of rights"
+                }
+              ],
+              "title": "\\\\Constitution"
+            }
+          ],
+          "title": "American Politics and Government"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
 }
