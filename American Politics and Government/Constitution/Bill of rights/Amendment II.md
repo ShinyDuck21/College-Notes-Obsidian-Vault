@@ -1,0 +1,12 @@
+## Well-Regulated Militia and Guns
+ - 2 things happening in Amendment II
+	 - [[The Declaration of Independence and Locke#Law of Nature|Natural Right]] that people can keep and bear arms
+		 - Revolution fought with Militias
+			 - Modern Day equivalent is National Guard
+		- Arguments
+			- Some make an argument that 2nd amendment is only in the context of the militia
+				- and others say that just like the other amendments, the natural rights are all individual so why would the 2nd amendment be a collective right?
+			- **2ND AMENDMENT IS AN INDIVIDUAL RIGHT** (I disagree with this personally)
+				- Added component as a check on the federal government
+				- If we disregard the Declaration it disregards the whole 2nd amendment
+		- Ultimately makes clear that the People have the ability to protect and defend your own [[The Declaration of Independence and Locke#Law of Nature|Natural Rights]]

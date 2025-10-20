@@ -1,0 +1,23 @@
+## Unreasonable Punishments and Due Process
+ - "Pleading the Fifth"
+	 - You can't be forced to witness against yourself
+- You can't be charged with Capital or Big Crime (i.e. Murder) without the consensus of a grand jury
+	- Grand Jury are 14 fellow citizens
+	- Government has to lay out the case against the grand jury
+		- Grand Jury says:
+			- Yes you can charge them
+			- No you can't charge them
+		- Government can stop when public in danger
+- [[The Declaration of Independence and Locke#Law of Nature|Natural Right]] to a jury
+- If government finds you committed a crime but a jury disagrees
+	- Government can't charge you twice and put you on trial until you get a guilty charge
+	- Government now just finds you committed of a slightly different thing which violates 5th Amendment
+	- Government can't put your [[The Declaration of Independence and Locke#Law of Nature|Natural Rights]] in danger constantly
+- If you get called to trial
+	- You don't have to say you did it
+	- Government then has to prove it
+- You cannot be deprived of Life, Liberty or Property without due process
+	- Need warrant to take you and put you on trial
+- Government can't just take property to be used for public
+	- They have to justly compensate you for that
+- Everyone has a right to the due process of law

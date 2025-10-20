@@ -1,0 +1,11 @@
+## Soldier Quartering
+ - Context:
+	 - Great Britain would send their soldiers particularly in the Boston area
+	 - The soldiers would boot people out of they're houses
+- Is the 3rd amendment outdated?
+	- No
+	- Speaks to the rights of property
+		- Why can't a soldier boot a person?
+			- The homeowner (You) can control who can come in and out
+			- Only if you give the government consent
+		- You have a [[The Declaration of Independence and Locke#Law of Nature|Natural Right]] to your own property and to control it

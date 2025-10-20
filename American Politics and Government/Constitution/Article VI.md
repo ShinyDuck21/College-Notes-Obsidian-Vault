@@ -1,0 +1,16 @@
+## Supremacy of the Federal Government
+ - National Debts from Confederation (revolution) valid under the Constitution
+	 - People who borrowed us money (the French) to continue being an ally
+	 - Articles of Confederation looked at as the Constitution using Declaration Values
+		 - Ended up scrapping but didn't scrap the Declaration
+- Supremacy Clause (supreme law of the land)
+	- Article I lays out the powers of congress
+	- Federal law is always supreme to state law
+		- States cannot contradict
+		- ex. Bill of Rights
+		- What happens when they do?
+			- Issue within federalism
+- All government officials (federal and state) bound by oath to uphold the Constitution
+	- No religious test for any office due to separation of Church and State
+		- Goes back to Article I and [[Amendment I|Freedom of Religon]]
+	- How are people supposed to uphold something that they don't understand

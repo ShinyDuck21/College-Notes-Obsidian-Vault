@@ -1,0 +1,16 @@
+## Criminal Trials
+ - When government wants to prosecute you. This comes into play
+ - Government cannot drag a trial out for years
+	 - We're infringing on someone else's natural rights so timeliness is important
+- Government cannot hide your trial. It has to be public
+- Jury has to be of your peers
+	- You or the jury cannot be from another state or district
+	- Jury is made of 12 members (Also seen in [[Amendment IV]])
+	- All 12 have to find guilty without a shadow of a doubt
+	- Jury is not members of the government.
+- Government has to tell you why your being arrested
+- Have to be confronted by accusatory
+	- You have to get witnesses in your favor
+	- example: if you say you were with friends then you have to get those friends to testify in your favor
+- Government can't charge a group of people
+- 

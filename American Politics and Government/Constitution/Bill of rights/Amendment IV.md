@@ -1,0 +1,19 @@
+## Unreasonable Searches and Seizures without probable cause
+ - Basis
+	 - You have a [[The Declaration of Independence and Locke#Law of Nature|Natural Right]] to be secure in your own self with your papers and your property
+	 - Basis for Free Market and Capitalism
+	 - If we are going to justify why we need to take someone's rights away in order to achieve justice
+		 - We have to do it like this
+		 - Without unreasonable searches and seizures
+- So if the government wants to search your stuff.
+	- They need a warrant
+	- Where do you get a warrant
+		- From the judicial branch where an impartial judge makes the decision
+		- The legislative and executive cannot issue searches and seizures. Only judicial
+		- You can't get a blanket arrest
+			- Example: Arrest warrant is just for you and not for anyone else
+			- or House Search Warrant is only for your house
+				- Executive has to tell judge what they are looking for and if is reasonable they can seize
+		- Supported by Oath or Affirmation
+			- Justification
+- Government has to be justified when searching or taking your stuff
