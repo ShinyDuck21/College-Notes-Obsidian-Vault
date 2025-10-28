@@ -1,9 +1,6 @@
 [
   "obsidian-tasks-plugin",
-  "obsidian-mindmap-nextgen",
-  "obsidian-icon-folder",
   "dataview",
   "obsidian-kanban",
-  "custom-sort",
-  "list-style"
+  "custom-sort"
 ]

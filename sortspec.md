@@ -9,4 +9,8 @@ sorting-spec: |-
   target-folder: American Politics and Government/Constitution/Bill of rights
   Overview
   Amendment \R+
+  target-folder: Introduction to Communications
+  Homework
+  Textbook
+  
 ---

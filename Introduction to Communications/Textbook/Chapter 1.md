@@ -1,5 +1,4 @@
- 
- ## 1.1 Four Communication Scenarios
+## 1.1 Four Communication Scenarios
 ---
 The scenarios show 4 different methods of communication though not defined
 

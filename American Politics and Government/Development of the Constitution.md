@@ -36,29 +36,29 @@ Small States v. large states
  - For the purposes of representation for the federal government; Slave populations count as 3/5 more.
  - Raised taxes at 3/5 rate
 
-## Sepration of Powers and Checks and Balances
+## Separation of Powers and Checks and Balances
 ---
-Seperation of Powers
+Separation of Powers
  - Federal
  - State
  - 3 Branches
-	 1. LEgislative
+	 1. Legislative
 	 2. Executive
 	 3. Judicial
 
-CHecks and Balances
+Checks and Balances
  - Between federal and state governments, between branches
  - Against Government itself
  - We the People
-	 - Back to natural law etc.
+	 - Back to [[The Declaration of Independence and Locke#Law of Nature|natural law]] etc.
 
-## Ratification of the Consitution
+## Ratification of the Constitution
 ---
 September 17 1787 - Approved by the Constitutional Convention and Sent to the state conventions for ratification
 
 Not Implemented until 1789 - why?
  - Federalists vs. Antifederalists
- - Many disagreements - Great confidence in structure of Consitution v. Skepticism
+ - Many disagreements - Great confidence in structure of Constitution v. Skepticism
  - Strong national government v. strong state governments
  - both purportedly seeking to uphold the Declaration
  - published works to persuade others - Federalist Papers and Antifederalist Papers
