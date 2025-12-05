@@ -1,8 +1,0 @@
- - [x] Write Practice Paper 2 (English) ⏫ 📅 2025-09-05 ✅ 2025-09-04
- - [x] Finish Readings and Take Quiz (English) ⏫ 📅 2025-09-05 ✅ 2025-09-05
- - [x] First Post in Discussion 1 (English) 🔼 📅 2025-09-05 ✅ 2025-09-05
- - [x] Response Posts in Discussion 1 (English) 🔼 📅 2025-09-07 ✅ 2025-09-07
- - [x] Read Chapter 3 [[Introduction to Communications/Week 2|Week 2]] (Communications) ⏬ 📅 2025-09-09 ✅ 2025-09-08
- - [x] Read textbook (Politics) 🔽 📅 2025-09-05 ✅ 2025-09-08
- - [x] Discussion 1 (Politics ) 🔼 📅 2025-09-05 ✅ 2025-09-08
- - [x] test ⏳ 2025-09-10 ✅ 2025-09-10

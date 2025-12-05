@@ -2,7 +2,7 @@
  - [x] Watch Lecture 📅 2025-09-05 ✅ 2025-09-08
 
 ---
-#### Syllabus
+## Syllabus
 Attendance will not be taken.
 
 Quizzes will be written and it would be like as if a friend asked the question
@@ -28,4 +28,3 @@ Democracy = Majority Rules
  - What's the focus of the democracy vs What's the focus of a Constitutional Republic
 	 - Democracy's Focus is majority
 	 - Constitutional Republic's focus is YOU
-- 

@@ -161,7 +161,6 @@ How does this law of Nature impact concept of Government? Does it establish some
 ---
 "If man in the state of nature be so free...if he be absolute lord of his own person and possessions, equal to the greatest and subject to no body, why will he part with his freedom? Why will he give up this empire, and subject himself to the dominion and control of any other power?"
 
-
 "To which it is obvious to answer, that though in the state of nature he hath such a right, yet the enjoyment of it is very uncertain, and constantly exposed to the invasion of others: for all beings kings as much as he, every man his equal, and the greater part no strict observers of equity and justice, the enjoyment of the property he has in this state is very unsafe, very unsecure. This makes him willing to quit a condition which however free, is full of fears and continual dangers: and it is not without reason, that he seeks out, and is willing to join in society with others, who are already united, or have a mind to unite, for the mutual preservation of their lives, liberties and estates, which I call by the general name, property"
  - You have this right of great freedom. Why would you give it up?
 	 - Mutual Preservation of your life and estates which he calls property

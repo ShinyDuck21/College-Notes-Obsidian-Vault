@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"ae5fb8d1f8c6cabc","type":"group","x":-420,"y":-260,"width":840,"height":280,"label":"SMCR Model"},
+		{"id":"2f8f607a391e5e22","type":"text","text":"Message","x":-160,"y":-220,"width":120,"height":60},
+		{"id":"c7f9778b448cc766","type":"text","text":"Channel","x":20,"y":-220,"width":120,"height":60},
+		{"id":"c39b929e2c940769","type":"text","text":"Receiver","x":200,"y":-220,"width":120,"height":60},
+		{"id":"1a389bf50739bee2","type":"text","text":"Feedback","x":-60,"y":-100,"width":140,"height":60},
+		{"id":"83afad8739cec104","type":"file","file":"Introduction to Communications/Textbook/Chapter 1 (Basics and Intro).md","x":-1260,"y":20,"width":400,"height":400},
+		{"id":"7cf7ff78cbd5606c","type":"text","text":"Source\n","x":-360,"y":-220,"width":130,"height":60}
+	],
+	"edges":[
+		{"id":"1abfc0a87cde5bd5","fromNode":"7cf7ff78cbd5606c","fromSide":"right","toNode":"2f8f607a391e5e22","toSide":"left"},
+		{"id":"9874515bb01e22d8","fromNode":"2f8f607a391e5e22","fromSide":"right","toNode":"c7f9778b448cc766","toSide":"left"},
+		{"id":"59401054d114657b","fromNode":"c7f9778b448cc766","fromSide":"right","toNode":"c39b929e2c940769","toSide":"left"},
+		{"id":"fbdb8209b88df083","fromNode":"c39b929e2c940769","fromSide":"right","toNode":"1a389bf50739bee2","toSide":"right"},
+		{"id":"c377f03c3f12dec8","fromNode":"1a389bf50739bee2","fromSide":"left","toNode":"7cf7ff78cbd5606c","toSide":"left"},
+		{"id":"32c5466c55b1a2c2","fromNode":"83afad8739cec104","fromSide":"right","toNode":"ae5fb8d1f8c6cabc","toSide":"left"}
+	]
+}
